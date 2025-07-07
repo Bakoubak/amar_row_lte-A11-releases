@@ -5,7 +5,7 @@ Current versions for A11 firmware:
 **THOSE RELEASES ARE PROVIDED AS IS AND ARE NOT STABLE, USE AT YOUR OWN RISK. AS OF 05/07/2025, THERE IS NO STABLE RELEASE, EVERYTHING IS ALPHA. IF YOU WANT TO USE IT, PLEASE SUBMIT A BUG REPORT IN THE ISSUE TAB IF YOU FIND ANY.**
 
 - LineageOS 18.1 (Skipped)
-- LineageOS 19.1 (Current)
+- LineageOS 19.1 (Current) -> Milestone 1 (Initial Release)
 - LineageOS 20.0 (WIP)
 
 Bugs:
