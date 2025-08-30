@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 Your LineageOS version, + build date and your stock firmare version
 
 **Logs**
-dmesg: adb shell "dmesg" > ./dmesg.txt
+dmesg: adb pull /cache/dmesg.mt8768.txt
 ramoops: adb pull /sys/fs/pstore/console-ramoops-0 ./ramoops.txt
 logcat: adb pull /cache/logcat.mt8768.txt
 
